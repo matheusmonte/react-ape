@@ -10,7 +10,17 @@ function getHeight() {
   }
 }
 
+function addEventListener(){
+
+}
+
+function removeEventListener(){
+
+}
+
 export default {
   getWidth,
   getHeight,
+  addEventListener,
+  removeEventListener
 };
